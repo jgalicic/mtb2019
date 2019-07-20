@@ -222,8 +222,8 @@ button:hover {
 }
 
 .fa-chevron-down {
-  font-size: 4vw;
-  margin: 0 10px;
+  font-size: 5vw;
+  margin: 0;
   position: relative;
   bottom: 1px;
 }
@@ -233,7 +233,7 @@ button:hover {
 }
 
 .ferry-info {
-  font-size: 3vw;
+  font-size: 4vw;
   position: relative;
   bottom: 5px;
 }
