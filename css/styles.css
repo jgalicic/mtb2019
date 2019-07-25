@@ -203,6 +203,11 @@ button:hover {
   margin: 0 5px;
 }
 
+.garden-description h6,
+.garden-description p {
+  margin-bottom: 10px;
+}
+
 .leaving-title {
   display: flex;
   justify-content: space-around;
@@ -210,6 +215,12 @@ button:hover {
 
 .ferry-tile {
   margin-bottom: 5px;
+}
+
+.ferry-title-container {
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-around;
 }
 
 .ferry-times {
@@ -226,17 +237,15 @@ button:hover {
   font-size: 4vw;
   margin: 0;
   position: relative;
-  bottom: 1px;
+  bottom: 4px;
 }
 
 .ferry-title-container .fa-chevron-down {
-  bottom: 4px;
+  bottom: 0;
 }
 
 .ferry-info {
   font-size: 4vw;
-  position: relative;
-  bottom: 5px;
 }
 
 .rotate {
