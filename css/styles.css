@@ -202,6 +202,10 @@ button:hover {
   justify-content: center;
 }
 
+.force-wrap {
+  font-size: 0;
+}
+
 .info {
   font-size: 0.9em;
   margin: 0 5px;
